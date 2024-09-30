@@ -4,9 +4,6 @@ This project is a simple React application demonstrating CRUD operations (Create
 
 
 Steps to Set Up the Project
-Clone the repository:
-
-git clone <repository-url>
 Navigate to the project directory:
 
 cd react-redux-crud
